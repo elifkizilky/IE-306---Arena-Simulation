@@ -1,0 +1,214 @@
+
+                                      ARENA Simulation Results
+                                        IE - License: STUDENT
+
+                                  Summary for Replication 1 of 4
+
+Project: IE306_HW5                                                   Run execution date :12/19/2022
+Analyst: Elif Kizilkaya                                              Model revision date:12/19/2022
+
+Replication ended at time      : 480.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Time Spent in the First Queue               22.488     (Insuf)    .00000     45.018        197    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Utilization of food server                  .97039     (Insuf)    .00000     1.0000     1.0000    
+The Utilization of food Server by Engineer  .39944     (Insuf)    .00000     1.0000     .50000    
+Utilization of cashier                      .96379     (Insuf)    .00000     1.0000     1.0000    
+The Utilization of cashier by SocSci        .52256     (Insuf)    .00000     1.0000     1.0000    
+The Utilization of cashier by Engineering   .44123     (Insuf)    .00000     1.0000     .00000    
+Service Queue Length                        10.365     (Corr)     .00000     23.000     22.000    
+Payment Queue Length                        25.646     (Corr)     .00000     64.000     62.000    
+The Utilization of food Server by SocSci    .53970     (Insuf)    .00000     1.0000     .50000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+SocSci Students who forgot their drink           17  Infinite
+Eng Students who forgot their drink              32  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+System.NumberOut                            .00000    
+
+Beginning replication 2 of 4
+
+                                      ARENA Simulation Results
+                                        IE - License: STUDENT
+
+                                  Summary for Replication 2 of 4
+
+Project: IE306_HW5                                                   Run execution date :12/19/2022
+Analyst: Elif Kizilkaya                                              Model revision date:12/19/2022
+
+Replication ended at time      : 480.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Time Spent in the First Queue               9.6390     (Insuf)    .00000     26.868        199    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Utilization of food server                  .97103     (Insuf)    .00000     1.0000     1.0000    
+The Utilization of food Server by Engineer  .42898     (Insuf)    .00000     1.0000     .00000    
+Utilization of cashier                      .99218     (Insuf)    .00000     1.0000     1.0000    
+The Utilization of cashier by SocSci        .54792     (Insuf)    .00000     1.0000     .00000    
+The Utilization of cashier by Engineering   .44425     (Insuf)    .00000     1.0000     1.0000    
+Service Queue Length                        4.0361     (Corr)     .00000     11.000     4.0000    
+Payment Queue Length                        25.623     (Corr)     .00000     56.000     55.000    
+The Utilization of food Server by SocSci    .51081     (Insuf)    .00000     1.0000     1.0000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+SocSci Students who forgot their drink           19  Infinite
+Eng Students who forgot their drink              34  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+System.NumberOut                            .00000    
+
+Beginning replication 3 of 4
+
+                                      ARENA Simulation Results
+                                        IE - License: STUDENT
+
+                                  Summary for Replication 3 of 4
+
+Project: IE306_HW5                                                   Run execution date :12/19/2022
+Analyst: Elif Kizilkaya                                              Model revision date:12/19/2022
+
+Replication ended at time      : 480.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Time Spent in the First Queue               20.636     (Insuf)    .00000     39.345        202    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Utilization of food server                  .99927     (Insuf)    .00000     1.0000     1.0000    
+The Utilization of food Server by Engineer  .40247     (Insuf)    .00000     1.0000     .50000    
+Utilization of cashier                      .99579     (Insuf)    .00000     1.0000     1.0000    
+The Utilization of cashier by SocSci        .53239     (Insuf)    .00000     1.0000     1.0000    
+The Utilization of cashier by Engineering   .46340     (Insuf)    .00000     1.0000     .00000    
+Service Queue Length                        9.5161     (Corr)     .00000     24.000     22.000    
+Payment Queue Length                        30.708     (Corr)     .00000     61.000     60.000    
+The Utilization of food Server by SocSci    .56555     (Insuf)    .00000     1.0000     .50000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+SocSci Students who forgot their drink           28  Infinite
+Eng Students who forgot their drink              28  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+System.NumberOut                            .00000    
+
+Beginning replication 4 of 4
+
+                                      ARENA Simulation Results
+                                        IE - License: STUDENT
+
+                                  Summary for Replication 4 of 4
+
+Project: IE306_HW5                                                   Run execution date :12/19/2022
+Analyst: Elif Kizilkaya                                              Model revision date:12/19/2022
+
+Replication ended at time      : 480.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Time Spent in the First Queue               36.813     (Insuf)    .00000     60.885        206    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Utilization of food server                  .98402     (Insuf)    .00000     1.0000     1.0000    
+The Utilization of food Server by Engineer  .39923     (Insuf)    .00000     1.0000     1.0000    
+Utilization of cashier                      .98477     (Insuf)    .00000     1.0000     1.0000    
+The Utilization of cashier by SocSci        .53462     (Insuf)    .00000     1.0000     .00000    
+The Utilization of cashier by Engineering   .45015     (Insuf)    .00000     1.0000     1.0000    
+Service Queue Length                        17.100     (Corr)     .00000     29.000     22.000    
+Payment Queue Length                        24.257     (Corr)     .00000     59.000     59.000    
+The Utilization of food Server by SocSci    .55354     (Insuf)    .00000     1.0000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+SocSci Students who forgot their drink           19  Infinite
+Eng Students who forgot their drink              20  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+System.NumberOut                            .00000    
+
+
+                                      ARENA Simulation Results
+                                        IE - License: STUDENT
+
+                                  Output Summary for 4 Replications
+
+Project: IE306_HW5                                                   Run execution date :12/19/2022
+Analyst: Elif Kizilkaya                                              Model revision date:12/19/2022
+
+
+                                             OUTPUTS
+
+Identifier                                 Average    Half-width Minimum    Maximum # Replications
+___________________________________________________________________________________________________
+
+System.NumberOut                            .00000     .00000     .00000     .00000     4
+
+Simulation run time: 0.12 minutes.
+Simulation run complete.

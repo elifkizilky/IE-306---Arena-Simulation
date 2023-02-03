@@ -1,0 +1,33 @@
+PROJECT,      "IE306_HW5","Elif Kizilkaya",,Yes,No,Yes,No,No,No,No,No,No,No,No;
+
+ATTRIBUTES:   Student_type,DATATYPE(Real):
+              TimeIn,DATATYPE(Real):
+              Service_time,DATATYPE(Real);
+
+STORAGES:     1,Engineering1:
+              2,SocSci1:
+              3,Engineering2:
+              4,SocSci2;
+
+QUEUES:       payment_queue,FirstInFirstOut,,AUTOSTATS(Yes,,):
+              server_queue,FirstInFirstOut,,AUTOSTATS(Yes,,);
+
+RESOURCES:    food_server,Capacity(2),,Stationary,COST(0.0,0.0,0.0),,AUTOSTATS(Yes,,):
+              cashier,Capacity(1),,Stationary,COST(0.0,0.0,0.0),,AUTOSTATS(Yes,,);
+
+COUNTERS:     SocSci Students who forgot their drink,,Replicate:
+              Eng Students who forgot their drink,,Replicate;
+
+TALLIES:      Time Spent in the First Queue;
+
+DSTATS:       NR(food_server)/2,Utilization of food server:
+              NSTO(Engineering1)/2,The Utilization of food Server by Engineering:
+              NR(cashier),Utilization of cashier:
+              NSTO(SocSci2),The Utilization of cashier by SocSci:
+              NSTO(Engineering2),The Utilization of cashier by Engineering:
+              NQ(server_queue),Service Queue Length:
+              NQ(payment_queue),Payment Queue Length:
+              NSTO(SocSci1)/2,The Utilization of food Server by SocSci;
+
+REPLICATE,    4,0.0,480,Yes,Yes,0.0,,,24.0,Minutes,No,No,,,No,No;
+
